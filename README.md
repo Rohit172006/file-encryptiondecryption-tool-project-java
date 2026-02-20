@@ -27,10 +27,7 @@ A Java CLI application that securely encrypts and decrypts files of any size usi
 
 ## 😋 Who cooked it?
 
-[![Rohit Gaikwad](https://ph7.me "Rohit Gaikwad personal website")
-
-
-**[Rohit Gaikwad](https://ph7.me)**, a highly passionate, pragmatic software engineer 😊
+**[Rohit Gaikwad]**, a highly passionate, pragmatic software engineer 😊
 
 
 ## ⚖️ License
